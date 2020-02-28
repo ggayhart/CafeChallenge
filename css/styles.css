@@ -1,8 +1,8 @@
 body {
   margin: 0;
   text-align: center;
-  /* background-image: url("/Users/geoffreygayhart/Desktop/cafe/Cafe Website challenge/images/cafe.jpg"); */
-  background-image: url("images/cafe.jpg");
+  background-image: url("https://github.com/ggayhart/CafeChallenge/blob/master/images/cafe.jpg");
+  /* background-color: #be7432; */
   background-size: cover;
 }
 
